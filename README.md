@@ -1,7 +1,7 @@
 <img id="logo" src="https://ejgoodchild.github.io/pasta-master-the-video-game/images/logo.png" height="300" align="center">
 
 ## What is Pasta Master?
-Pasta Master is an adventure 2D platformer set in a world where pasta based food is the most popular type of dish. The game follows Jimmy, a man who gets his pasta stolen by a mysterious figure and sets of on adventure to get it back.
+Pasta Master is an adventure 2D platformer set in a world where pasta based food is the most popular type of dish. The game follows Jimmy, a man who gets his pasta stolen by a mysterious figure and sets of on adventure to get it back...
 
 
 ## Current Progress
