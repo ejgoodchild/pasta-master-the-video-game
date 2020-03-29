@@ -3,5 +3,7 @@ Pasta Master is an adventure 2D platformer set in a world where pasta based food
 
 
 ## Current Progress
-Currently the first prototype is available to download.
+Currently the first prototype/demo is available to [play](https://ejgoodchild.github.io/pasta-master-the-video-game/Demo/).
 
+## Spotted an issue/bug?
+If you find a bug, issue or problem please let me know by filling out this [Google Form](https://forms.gle/wkV2vroWUCDFzxvq8). This will help me make the game better and is much appreciated.
