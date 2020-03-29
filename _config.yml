@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Pasta Master
 show download: false
+  is_project_page: false
